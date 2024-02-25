@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Arduino")(type "KiCad")(uri "${KIPRJMOD}/resources/arduino-kicad-library-master/symbols/arduino-library.kicad_sym")(options "")(descr "Simbolos de placas Arduino's"))
+)

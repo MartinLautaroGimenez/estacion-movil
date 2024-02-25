@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Placas_Arduino")(type "KiCad")(uri "${KIPRJMOD}/resources/arduino-kicad-library-master/footprints/arduino-library.pretty")(options "")(descr "Diversas placas Arduinos"))
+)
